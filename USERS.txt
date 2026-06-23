@@ -1,7 +1,8 @@
-suffo,suffo,700.0
+suffo,suffo,2000.0
 farhan,123,200.0
 ,,0.0
 neeraj,123,0.0
 sufiyan,12,0.0
 Nrebel,Nrebel,800.0
 Maresh,123,400.0
+rushbask,098765,200.0
